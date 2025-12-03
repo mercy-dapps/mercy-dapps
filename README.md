@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mercy Adams 👋</h1>
 <p align="center">
-  ⚡ Solana Developer | 🎨 Frontend Engineer | 🛠️ Open Source Contributor
+  ⚡ Smart Contract Enigineer | 🎨 Frontend Engineer 
 </p>
 
 ---

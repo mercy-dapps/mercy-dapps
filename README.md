@@ -6,16 +6,15 @@
 ---
 
 ### 🔭 What I'm Building
-- 🏠 **EasyHaven** – A decentralized housing/property management eliminating middle-men. 
+- 🏠 **EasyHaven** – A decentralized housing/property management eliminating middle-men.
+- 💬 **Veil** – A decentralized anonymous messaging application using Solana action - blink. 
 - 🎧 **SoundHaven** – A decentralized music platform built on Solana, designed to empower artists and listeners alike (Turbin3 Capstone Project).  
-- 📦 **Anchor dApps** – Projects exploring Solana smart contracts using the Anchor framework (To-do lists, NFTs, Vault, Escrow).
-- 🌐 Frontend web applications – Leveraging **React**, **Tailwind**, **Sass**, **Next.js**, and **TypeScript** to build clean, user-friendly applications.
 
 ---
 
 ### 🧠 What I'm Learning
-- 🦀 **Rust**, **Anchor** for Solana smart contract development  
-- 🧩 Deeper integration between **web3 frontends** and **on-chain programs**
+- 🦀 **Rust**, ⚓ **Anchor**, **Pinocchio** for Solana smart contract development  
+- 🧩 Deeper integration between **web3 frontends**, **on-chain programs** and **security researching**
 
 ---
 

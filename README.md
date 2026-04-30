@@ -1,51 +1,35 @@
-<h1 align="center">Hey there, I'm Mercy Adams 👋</h1>
+<h1 align="center">Mercy Adams</h1>
 <p align="center">
-  ⚡ Smart Contract Enigineer | 🎨 Frontend Engineer 
+  Smart Contract Engineer · Frontend Engineer · Security Researcher
 </p>
 
 ---
 
-### 🔭 What I'm Building
-- 🏠 **EasyHaven** – A decentralized housing/property management eliminating middle-men.
-- 💬 **Veil** – A decentralized anonymous messaging application using Solana action - blink. 
-- 🎧 **SoundHaven** – A decentralized music platform built on Solana, designed to empower artists and listeners alike (Turbin3 Capstone Project).  
+### What I'm Learning
+- 🦀 **Rust** — systems programming, CLI tools, and Solana programs
+- ⚓ **Anchor** and **Pinocchio** for on-chain development
+- 🔐 **Security research** — auditing smart contracts and on-chain programs
 
 ---
 
-### 🧠 What I'm Learning
-- 🦀 **Rust**, ⚓ **Anchor**, **Pinocchio** for Solana smart contract development  
-- 🧩 Deeper integration between **web3 frontends**, **on-chain programs** and **security researching**
+### Stack
+- **Solana** — Anchor · Pinocchio · Solana CLI · SPL Tokens
+- **Frontend** — React · Next.js · TypeScript · Tailwind CSS
+- **Languages** — Rust · TypeScript · JavaScript
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 🧵 Solana / Web3
-- ⚙️ Anchor • Solana CLI • SPL Tokens
-- 🌉 Phantom Wallet • Metaplex
-
-#### 🌐 Frontend
-- ⚛️ React / Next.js
-- 🎨 Tailwind CSS / Framer Motion
-- 💬 TypeScript / React Query
-
-#### ⚙️ Tooling
-- 🐳 Vercel
-  
----
-
-### 📈 GitHub Stats
-
+### Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-dapps&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
 
-### 📬 Let's Connect
-- 🐦 [Twitter / X](https://x.com/m_adams1909) – sharing web3 learnings
-- 💼 [LinkedIn](https://linkedin.com/in/adamsmercy)
+### Connect
+- [Twitter / X](https://x.com/m_adams1909)
+- [LinkedIn](https://linkedin.com/in/adamsmercy)
 
 ---
 
-_“The best way to predict the future is to build it — block by block.”_
+*"The best way to predict the future is to build it — block by block."*
